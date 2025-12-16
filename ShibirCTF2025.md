@@ -4,10 +4,6 @@ Just patching the program to execute the print_flag function was enough.
 ![](assets/2025-12-16_18-42.png)
 
 ![](assets/Pasted%20image%2020251216184412.png)
-
-# Dhaka Data Breach
-
-<span class="center-align">Miscellaneous</span>
 # Slogran of July
 ![](assets/Pasted%20image%2020251216193613.png)
 # Wanna Hang Haxina
